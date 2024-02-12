@@ -1,0 +1,10 @@
+@import url(styles/reset.css);
+@import url(styles/globalStyles.css);
+@import url(styles/typography.css);
+@import url(styles/button.css);
+@import url(components/Header/header.css);
+@import url(components/BannerSection/bannerSection.css);
+@import url(components/AboutMeSection/aboutMeSection.css);
+@import url(components/TechSection/techSection.css);
+@import url(components/ProjectsSection/projects.css);
+@import url(components/Footer/footer.css);
