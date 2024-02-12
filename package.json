@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ig": "^0.0.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "vercel": "^33.5.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
